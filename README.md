@@ -1,13 +1,13 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+# Seu repositório de laboratório de aprendizagem GitHub para apresentar o GitHub
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
+Bem-vindo ao ** seu ** repositório para o curso do GitHub Learning Lab. Este repositório será usado durante as diferentes atividades que irei orientar você. Vê uma palavra que você não entende? Incluímos um emoji 📖 ao lado de alguns termos-chave. Clique nele para ver sua definição.
 
-Oh! I haven't introduced myself...
+Oh! Eu não me apresentei ...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+Sou o bot do Laboratório de aprendizagem do GitHub e estou aqui para ajudar a guiá-lo em sua jornada para aprender e dominar os diversos tópicos abordados neste curso. Usarei os comentários de Issue e Pull Request para me comunicar com você. Na verdade, eu já adicionei um problema para você verificar.
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
+Eu te encontro lá, mal posso esperar para começar!
 
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+Este curso está usando o: sparkles: projeto de código aberto [revela.js] (https://github.com/hakimel/reveal.js/). Em alguns casos, fizemos alterações no histórico para que se comportasse durante a aula, então vá para o repositório do projeto original para aprender mais sobre as pessoas legais por trás deste projeto.
